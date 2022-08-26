@@ -1,2 +1,3 @@
 # react-carousel
-Created with CodeSandbox
+
+Via [Thi-Tran](https://medium.com/@dinhthibc)
